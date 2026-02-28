@@ -2,6 +2,9 @@ Tartalom
 
 ========
 
+<img width="1920" height="1080" alt="2026-02-28 16_16_14" src="https://github.com/user-attachments/assets/cb711d2a-0b7e-4d07-9668-c9cd357716d9" />
+
+
 * 'Project_Gauss.sb3'
 
 A projekt a zöld zászlóval indul.
@@ -17,3 +20,4 @@ A zöld zászlóval indítható főprogram a számok összeadása
 a felhasználó által megadott számokkal, a-tól b-ig a Gauss-féle módszerrel, 
 viszont ha ugyan azt a számot adják meg kétszer, 
 egy mellékprogram lép életbe és leáll a főprogram.
+
